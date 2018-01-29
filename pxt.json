@@ -1,7 +1,7 @@
 {
-    "name": "neopixel",
+    "name": "skadam-neopixel",
     "version": "0.4.3",
-    "description": "AdaFruit NeoPixel driver",
+    "description": "skadam NeoPixel driver",
     "license": "MIT",
     "dependencies": {
         "core": "*"
